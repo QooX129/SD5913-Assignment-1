@@ -1,5 +1,5 @@
 # Research and AI Process
-
+[6 September 2026, 03:30am]
 I used GitHub Copilot to organise research notes for the course materials before
 drafting the essay. It summarised the linked readings and identified ideas that
 may be useful for answering the question, "Why are we here?"
@@ -7,7 +7,23 @@ may be useful for answering the question, "Why are we here?"
 I will use these notes as prompts for my own argument, rather than treating them
 as a draft of the essay.
 
-## Source Notes
+[6 September 2026, 19:30pm]
+- Asked GitHub Copilot to explain the similarities and differences between
+	designers and artists.
+- Revised the first paragraph of the README to introduce both roles.
+- Decided that communication between people is the main purpose shared by
+	designers and artists.
+- Asked Copilot to connect programming with design and art.
+- Explained that programming can create interactive experiences and can be both
+	a technical skill and a creative medium.
+- Asked Copilot to find supporting references for both paragraphs.
+- Selected references from the Design Council, Tate, Dylan Beattie, Ada
+	Lovelace, and the Agile Alliance.
+- Added in-text citations and an APA-style References section to the README.
+- Used Copilot for research, organisation, wording, and editing, while keeping
+	responsibility for the main argument and final decisions.
+
+# Source Notes
 
 **Contents:** [The Art of Code](#dylan-beattie-the-art-of-code-video) | 
 [Ada Lovelace](#ada-lovelace-note-g-to-sketch-of-the-analytical-engine) | 
@@ -15,7 +31,7 @@ as a draft of the essay.
 [Don Ihde](#don-ihde-mediated-perception) |
 [Alan Turing](#alan-turing-on-computable-numbers-with-an-application-to-the-entscheidungsproblem)
 
-### Dylan Beattie, *The Art of Code* (video)
+## Dylan Beattie, *The Art of Code* (video)
 
 - [Core idea] Programming can be an expressive medium as well as a practical
 	profession. Beattie compares code with other creative forms: its rules and
@@ -26,7 +42,7 @@ as a draft of the essay.
 	achieves an outcome. Learning to code can help a designer shape the behaviour,
 	limits, and character of a digital work, including work made with AI tools.
 
-### Ada Lovelace, Note G to *Sketch of the Analytical Engine*
+## Ada Lovelace, Note G to *Sketch of the Analytical Engine*
 
 - [Core idea] Lovelace distinguishes between a machine carrying out operations
 	and a machine originating ideas. The Analytical Engine "has no pretensions
@@ -37,7 +53,7 @@ as a draft of the essay.
 	automation. A machine's output still depends on human judgement about the problem,
 	the instructions, and the meaning of the result.
 
-### Principles behind the Agile Manifesto
+## Principles behind the Agile Manifesto
 
 - [Core idea] The twelve principles describe software development as an ongoing,
 	collaborative practice, not a one-time act of producing code. They prioritise
@@ -47,7 +63,7 @@ as a draft of the essay.
 	A useful program must continue to serve real people as their needs change, which
 	challenges the idea that generated code alone completes the work.
 
-### Don Ihde, mediated perception
+## Don Ihde, mediated perception
 
 - [Core idea] Ihde's postphenomenology argues that technologies are not neutral
 	objects placed between people and the world. Technology mediates perception and
@@ -58,7 +74,7 @@ as a draft of the essay.
 	the work a designer is likely to make. Programming can help a designer notice
 	and contest these mediations rather than accepting them as invisible.
 
-### Alan Turing, *On Computable Numbers, with an Application to the
+## Alan Turing, *On Computable Numbers, with an Application to the
 Entscheidungsproblem*
 
 - [Core idea] Turing explains computation through a simple abstract machine that
