@@ -1,0 +1,1 @@
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QWhy Programming\nProgramming connects closely with both design and art because it enables ideas to be developed into interactive and functional digital experiences.\\E$"}
