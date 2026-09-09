@@ -17,4 +17,8 @@ as a draft of the essay.
 - Used Copilot for research, organisation, wording, and editing, while keeping responsibility for the main argument and final decisions.
 
 [9 September 2026, 16:30pm]
-- 
+- Feed the website Georgetown University article as a reference for Copilot to write the Creativity and AI section.
+- Added the study's finding that essays written after ChatGPT's launch used more diverse words but often contained fewer original ideas.
+- Revised the argument to explain that AI does not automatically limit creativity; its effect depends on how the user uses it.
+- Added a conclusion explaining why artists and designers should learn programming: to understand their tools, judge AI-generated results, and keep control of their creative ideas.
+
